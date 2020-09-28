@@ -1,2 +1,8 @@
+<<<<<<< Updated upstream
 macbook air
 lenovo pc
+=======
+gaming pc
+macbook air
+lenovo pc
+>>>>>>> Stashed changes
